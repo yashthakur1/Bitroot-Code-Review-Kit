@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "bitroot-code-review-kit": {
+      "command": ".venv/Scripts/bitroot-code-review-kit.exe",
+      "args": ["serve"]
+    }
+  }
+}
